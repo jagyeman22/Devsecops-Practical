@@ -4,3 +4,4 @@ Date 19.08.2024
 3. Lunch
 4. Book festival
 5. meet friends
+to trigger Actions
